@@ -1,0 +1,612 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Honourable the House of Commons, by E. Owen, P. Soone, and G. Kellett, Gent. Proposals, humbly offered, for raising one million two hundred thousand pounds in six months: and also three hundred and fifty thousand pounds per ann. Two hundred and fifty thousand pounds per ann. whereof, to be applied as thought convenient, by passing an act for the rebuilding of all houses consumed by fire, being [for] the publick good, present supply of the government, and ad[vant]age of every contributor.</title>
+            <author>Owen, E., gent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53655</idno>
+            <idno type="STC">Wing O704D</idno>
+            <idno type="STC">ESTC R214575</idno>
+            <idno type="EEBO-CITATION">99826694</idno>
+            <idno type="PROQUEST">99826694</idno>
+            <idno type="VID">31099</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53655)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31099)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1768:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Honourable the House of Commons, by E. Owen, P. Soone, and G. Kellett, Gent. Proposals, humbly offered, for raising one million two hundred thousand pounds in six months: and also three hundred and fifty thousand pounds per ann. Two hundred and fifty thousand pounds per ann. whereof, to be applied as thought convenient, by passing an act for the rebuilding of all houses consumed by fire, being [for] the publick good, present supply of the government, and ad[vant]age of every contributor.</title>
+                  <author>Owen, E., gent.</author>
+                  <author>Soone, P. aut</author>
+                  <author>Kellett, G. aut</author>
+               </titleStmt>
+               <extent>3, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by W. Onley, near Symond's Inn in Chancery-lane,</publisher>
+                  <pubPlace>[[London] :</pubPlace>
+                  <date>1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon; place of publication from Wing.</note>
+                  <note>Imperfect; title page mutilated with slight loss of print.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Finance --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proposal">
+            <pb n="1" facs="tcp:31099:1" rendition="simple:additions"/>
+            <head>To the Honourable the Houſe of Commons, By <hi>E. Owen, P. Soone,</hi> and <hi>G. Kellett,</hi> Gent. Propoſals, humbly offered, for Raiſing One Million two Hundred Thouſand Pounds in ſix Months: And alſo three Hundred and fifty Thouſand Pounds <hi>per Ann.</hi> Two Hundred and fifty Thouſand Pounds <hi>per Ann.</hi> whereof, to be applied as thought convenient, <hi>By Paſſing an Act for the Rebuilding of all Houſes conſumed by Fire, being <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Publick Good, preſent Supply of the Government, and Ad<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>age of every Contributor.</hi>
+            </head>
+            <p n="1">1. THat every Houſe advance the immediate Payment, according to the follow<g ref="char:EOLhyphen"/>ing Table, and proportionably for a greater Rent, not exceeding the Rent of ſixty Pounds, tho' the Houſes are of a much greater Rent, which will raiſe the One Million two Hundred Thouſand Pounds within the ſix Months propoſed.</p>
+            <p n="2">2. That, of the yearly Payment of four Pence <hi>per</hi> Pound, payable according to the Ta<g ref="char:EOLhyphen"/>ble, not exceeding the yearly Rent of 60 <hi>l.</hi> 
+               <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> propoſed, there be kept a ſeperate and diſtinct Account, one Moyety thereof to be applied as thought ſit, the other Moy<g ref="char:EOLhyphen"/>ety to be preſerved as a diſtinct and ſeperate Fund, to anſwer the general Charge of the Sums to be returned according to the Table, for and towards making Good the contin<g ref="char:EOLhyphen"/>gent Loſſes by Fire and Charge of Collecting.</p>
+            <p>
+               <table>
+                  <head>The TABLE.</head>
+                  <row>
+                     <cell role="label" cols="2">
+                        <hi>P<gap reason="illegible: faint" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> per Annum.</hi>
+                     </cell>
+                     <cell role="label" cols="4">Immediate Payments.</cell>
+                     <cell role="label" cols="4">Yearly Payments.</cell>
+                     <cell role="label" cols="2">Sums to be return'd.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>1</cell>
+                     <cell> </cell>
+                     <cell>0</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                     <cell> </cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>4</cell>
+                     <cell> </cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>2</cell>
+                     <cell> </cell>
+                     <cell>0</cell>
+                     <cell>4</cell>
+                     <cell>0</cell>
+                     <cell> </cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>8</cell>
+                     <cell> </cell>
+                     <cell>20</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>3</cell>
+                     <cell> </cell>
+                     <cell>0</cell>
+                     <cell>6</cell>
+                     <cell>0</cell>
+                     <cell> </cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                     <cell> </cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>4</cell>
+                     <cell> </cell>
+                     <cell>0</cell>
+                     <cell>8</cell>
+                     <cell>0</cell>
+                     <cell> </cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>4</cell>
+                     <cell> </cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                     <cell>0</cell>
+                     <cell>10</cell>
+                     <cell>0</cell>
+                     <cell> </cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>8</cell>
+                     <cell> </cell>
+                     <cell>50</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>6</cell>
+                     <cell> </cell>
+                     <cell>0</cell>
+                     <cell>12</cell>
+                     <cell>0</cell>
+                     <cell> </cell>
+                     <cell>0</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                     <cell> </cell>
+                     <cell>60</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>7</cell>
+                     <cell> </cell>
+                     <cell>0</cell>
+                     <cell>14</cell>
+                     <cell>0</cell>
+                     <cell> </cell>
+                     <cell>0</cell>
+                     <cell>2</cell>
+                     <cell>4</cell>
+                     <cell> </cell>
+                     <cell>70</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>8</cell>
+                     <cell> </cell>
+                     <cell>0</cell>
+                     <cell>16</cell>
+                     <cell>0</cell>
+                     <cell> </cell>
+                     <cell>0</cell>
+                     <cell>2</cell>
+                     <cell>8</cell>
+                     <cell> </cell>
+                     <cell>80</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>9</cell>
+                     <cell> </cell>
+                     <cell>0</cell>
+                     <cell>18</cell>
+                     <cell>0</cell>
+                     <cell> </cell>
+                     <cell>0</cell>
+                     <cell>3</cell>
+                     <cell>0</cell>
+                     <cell> </cell>
+                     <cell>90</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                     <cell>1</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell> </cell>
+                     <cell>0</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                     <cell> </cell>
+                     <cell>100</cell>
+                  </row>
+                  <row>
+                     <cell role="total" cols="2">60</cell>
+                     <cell role="total" cols="4">6-0-0</cell>
+                     <cell role="total" cols="4">1-0-0</cell>
+                     <cell role="total" cols="2">600</cell>
+                  </row>
+               </table>
+            </p>
+            <p>In Caſe of great Conflagrations amounting to a greater Sum than the Fund ſet apart for the Purpoſes aforeſaid, the Deficiences to be made good by the next ſucceeding Seſſion of Parliament.</p>
+            <p>And it is humbly hoped, that theſe Propoſals will make good the Sums hereby intended, it being computed, that there is in <hi>England,</hi> according to a moderate Eſtimate, One Mil<g ref="char:EOLhyphen"/>lion two Hundred thouſand Houſes and upwards, including Chambers in Colledges and Halls in both Univerſities, Inns of Court, and Chancery, Doctors-Commons, Halls, and publick Buildings, valuing one with another at 10 <hi>l. per Annum</hi> Rent, will raiſe the im<g ref="char:EOLhyphen"/>mediate One Million two Hundred Thouſand Pounds, for the preſent Supply: and alſo the yearly Payment of two Hundred Thouſand Pounds to be applied as above.</p>
+            <pb n="2" facs="tcp:31099:2"/>
+            <p> If this Honourable Houſe, in their Wiſdom, think fit to Paſs this into an Act, the fol<g ref="char:EOLhyphen"/>lowing Method is humbly Preſented for Collecting the ſame, and preventing Frauds and Miſtakes therein.</p>
+            <p>That the Church-wardens and Overſeers of their reſpective Pariſhes, who are to Receive and Collect the immediate and yearly Payment, have Books containing a ſufficient Num<g ref="char:EOLunhyphen"/>ber of Sheets to be divided into Coloums, after the manner following:</p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">On the Side of Street in the Pariſh of in the of <hi>Houſes.</hi>
+                     </cell>
+                     <cell role="label">N<hi rend="sup">o</hi>
+                     </cell>
+                     <cell role="label">Landlords Names.</cell>
+                     <cell role="label">Tennants Names.</cell>
+                     <cell role="label">Rent <hi>p<gap reason="illegible: missing" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>r Ann.</hi>
+                     </cell>
+                     <cell role="label" cols="3">Immediate Payment.</cell>
+                     <cell role="label" cols="3">Yearly Payment.</cell>
+                     <cell role="label">Sums <hi>
+                           <gap reason="illegible: faint" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> re<g ref="char:EOLhyphen"/>turn'd.</hi>
+                     </cell>
+                     <cell role="label">Return'd for Non-Pay<g ref="char:EOLhyphen"/>ment.</cell>
+                     <cell role="label">New Inha<g ref="char:EOLhyphen"/>bitants.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>1</cell>
+                     <cell>
+                        <hi>A. B.</hi>
+                     </cell>
+                     <cell>
+                        <hi>C. D.</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>4</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>2</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                     <cell>4</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>8</cell>
+                     <cell>20</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>3</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>3</cell>
+                     <cell>0</cell>
+                     <cell>6</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                     <cell>30</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>4</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>4</cell>
+                     <cell>0</cell>
+                     <cell>8</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>4</cell>
+                     <cell>40</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>5</cell>
+                     <cell>0</cell>
+                     <cell>10</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>8</cell>
+                     <cell>50</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>6</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>6</cell>
+                     <cell>0</cell>
+                     <cell>12</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                     <cell>60</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>7</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>7</cell>
+                     <cell>0</cell>
+                     <cell>14</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>2</cell>
+                     <cell>4</cell>
+                     <cell>70</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>8</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>8</cell>
+                     <cell>0</cell>
+                     <cell>16</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>2</cell>
+                     <cell>8</cell>
+                     <cell>80</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>9</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>9</cell>
+                     <cell>0</cell>
+                     <cell>18</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>3</cell>
+                     <cell>0</cell>
+                     <cell>90</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>10</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                     <cell>100</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>&amp;c.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell role="total" cols="2">60-600</cell>
+                     <cell role="total">6-</cell>
+                     <cell role="total" cols="2">00-</cell>
+                     <cell role="total">1-</cell>
+                     <cell role="total" cols="2">00-</cell>
+                     <cell role="total">600</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>By Us,
+<list>
+                  <item>
+                     <hi>A. B.</hi>
+                  </item>
+                  <item>
+                     <hi>C. D.</hi>
+                  </item>
+               </list> Church-wardens, Overſeers.</p>
+            <p>The Oath taken Before Us, <hi>
+                  <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> to the Act. Juſtices.</p>
+            <p>That two Books for every Pariſh be fill'd up, Examined, Signed and Comp<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>red by the Church-wardens and Overſeers thereof, and an Oath taken before a Juſtice of the Peace of ſuch County, and Signed by Two, that it is a true Eſtimate, according to the beſt of their Knowledge; one Book to be immediately ſent up to an Office, with proper Officers, to be Erected for that Purpoſe; the other to be their Warrant, to Receive and Collect the ſame and then to be returned with the Mony into the Exchequer, and brought to the aforementioned Office, there to be compared with their Counter-parts, and an Ac<g ref="char:EOLhyphen"/>count to be fairly written in Books, and Stated by Subſtracting the Returns from the Mo<g ref="char:EOLhyphen"/>ny receiv'd: And from the old Books, new Ones to be every Year made and ſent to the ſeveral Pariſhes, with ſuch Alterations as are returned by ſuch Office.</p>
+            <p>The Act to contain ſuch Penalties, Forfeitures and Proviſoes, as the Nature of the Thing requires, and to conſider of, and provide for the ſeveral Terms, Intereſts, and Eſtates of the Perſons concerned; is left to this Honourable Houſe: And alſo, as to Hou<g ref="char:EOLhyphen"/>ſes already Inſured.</p>
+            <p>If this Honourable Houſe are pleaſed to think it worth their further Conſideration, a Propoſal for making good Loſſes of Ships in their reſpective Voyages, upon your favou<g ref="char:EOLhyphen"/>rable Incouragement, will be alſo Preſented; whereby Frauds by common Aſſurers will be prevented; a great yearly Sum raiſed for the Publick Advantage.</p>
+            <p>
+               <hi>Reaſons humbly offered for Paſſing this into an Act.</hi>
+            </p>
+            <p>THat the Nation being very much Indebted, whereby there is a Neceſſity of raiſing great Sums for an immediate Supply, towards diſcharging the Arrears due to the Army and Fleet, and the Debts contracted by the late War, which can no other<g ref="char:EOLhyphen"/>wiſe be done, than by great Taxes to be laid upon the Subject; It is humbly conceived, none can be Propoſed, whereunto the Subjects will more readily and chearfully Contri<g ref="char:EOLhyphen"/>bute, or whereby they will receive ſo great Benefit and Advantage.</p>
+            <p n="1">1. For that what they pay hereupon, they will proportionably ſave, out of what muſt have been otherwiſe raiſed.</p>
+            <p n="2">2. They will hereby receive a preſent Recompence, by raiſing the Value of Houſes, at leaſt ten Pounds <hi>per Cent.</hi> and making their Eſtates more certain, and a better Security to Ground-Jointures, Settlements and Mortgages upon.</p>
+            <p n="3">3. This Method is already put in Practice by a great number of wiſe and prudent Men, for the Preſervation of themſelves and Families, by private Agreements for mutual Contributions, and is alſo the Deſire of moſt Corporations in <hi>England,</hi> to be eſtabliſhed by Authority of Parliament, under a National Fund and Credit.</p>
+            <p n="4">
+               <pb n="3" facs="tcp:31099:2"/> 4. Hereby will be no Occaſion for Briefs and other charitable Collections, whereby great Sums are yearly drained out of the Subjects Pockets, and the Frauds and Miſappli<g ref="char:EOLhyphen"/>cations of the Subjects Charity prevented, and places the Receiver above the Notion of taking Alms, inducing them to reſpect the Government as the Fountain of the Publick Good.</p>
+            <p n="5">5. Will be the Support of thouſands of Families, and thereby in great Meaſure prevent the Encreaſe of the Poor, and ſupply them with a Foundation for future Induſtry.</p>
+            <p n="6">6. Is no ways Oppreſſive to the Poor who cannot be poſſeſſed of any Eſtate in Houſes.</p>
+            <p n="7">7. As private Perſons for private Intereſts have erected particuler Offices for this Pur<g ref="char:EOLhyphen"/>poſe, which have been very acceptable and well thought on by the more intelligent Part of Mankind. Therefore ſo noble and generous a Deſign as extends it ſelf to the Preſer<g ref="char:EOLhyphen"/>vation, Relief, and Benefit of Cities, Towns, and Countries; and the Whole in general, will, ('tis not queſtion'd,) merit the intenſe Conſideration of, and Encouragement by this Houſe, and meet with grateful Acceptance by the Publick.</p>
+            <p>
+               <hi>It is further Propoſed, to make good the other One Hundred and fifty thouſand Pounds</hi> per Ann. by</p>
+            <p n="1">1. A double Rate or Charge upon Poſt-Letters in general, which will be but the ſame Charge to the Government in Collecting as at preſent, and bring in the clear yearly Sum of One hundred thouſand Pound <hi>per Ann.</hi> and upwards; due Care being taken to prevent Coach-men, Carriers and others, from conveying Letters.</p>
+            <p n="2">2. Every Perſon to pay one Shilling <hi>per</hi> Pound, out of ſuch Sum he ſhall receive with every Clerk, Apprentice or Servant, ſuch Clerk, Apprentice or Servant, not to be a<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to practiſe or exerciſe his Trade, (unleſs the ſaid Sum or Duty be duly paid) the Maſter who receives, and Parent, Guardian or Friend who pays the ſame, to forfeit treble the Sum, in caſe the ſame be not duly anſwered, which computing, that there be Five hun<g ref="char:EOLhyphen"/>dred Thouſand put out in three Years, at ten Pounds one with another, will raiſe Eighty <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>houſand Pounds <hi>per Ann.</hi> and upward.</p>
+            <p>
+               <hi>Theſe Propoſals it is humbly hoped, will meet with the favourable Acceptance of this Honourable Houſe, as being Intended for the Service of the Goverment, the Eaſe of the Subject, and the Publick Good, and theſe Propoſers meet with a ſuitable Encouragement.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>W. Onley,</hi> near <hi>Symond</hi>'s <hi>Inn</hi> in <hi>Chancery-lane,</hi> 1699.</p>
+            <pb facs="tcp:31099:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
